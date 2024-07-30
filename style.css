@@ -23,10 +23,13 @@ body{
     display: flex;
     margin-left: auto;
     padding: 0px 100px 0px 0px;
+    
+}
+.header-link a{
     text-decoration: none;
     color: #e5e7eb;
     font-size: 18px;
-    pad: 10px;
+    padding: 10px;
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }
 .main{
